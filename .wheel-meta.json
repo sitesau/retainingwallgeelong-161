@@ -1,0 +1,22 @@
+{
+  "wheel_id": 896,
+  "structure": "umbrella",
+  "slug": "retainingwallgeelong-161",
+  "project": "retaining-wall-builders-geelong-timeline-e08dd124e56b18bd97fb4b",
+  "parent_t1_ref": "retainingwallgeelong-016",
+  "node_role": "buffer",
+  "money_target": "retainingwallgeelong.com.au",
+  "primary_kw": "retaining wall builders geelong timeline",
+  "intended_url": "http://retaining-wall-builders-geelong-timeline-e08dd124e56b18bd97fb4b.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "7d99c9a669b2b420",
+  "links": [
+    {
+      "target_url": "https://cloudsites-hub.pages.dev/sites-01/retaining-wall-builders-geelong/",
+      "anchor": "Retaining Wall Builders Geelong: A Practical Site Guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
